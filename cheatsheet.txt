@@ -1,0 +1,28 @@
+touch.gitignore  #to create a new file using "touch" cmd
+git config --global user.name Dashminder
+git config --global user.email youremail@example.com
+git init
+git add <file-name>  #to add file one by one
+git add -A  #to add all untracked files
+git commit -m "Initial commit"  #checkpoint
+git status #just to see
+
+git remote add origin <url.git>   # you can use https/ssh key of your repo
+git push -u origin master  # to push from local to remote repo
+/*git push origin master   # these are same
+git push*/ 
+
+git remote -v #to check whether remote is added or not 
+
+git remote set-url origin <url.git> #to set/change url of your repo 
+
+git pull # to fetch from remote to local repo
+
+ Generating ssh keys
+ssh-keygen -t rsa -b 4096 -C "youremail@example.com"
+cat <path to id_rsa.pub> #Add this key to your Github account
+
+git push origin master
+
+
+
