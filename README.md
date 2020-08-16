@@ -6,8 +6,10 @@ which means it works in a two way. That means counter will be incremented if per
 
 The aim of our project is to make a controller which can sense if any person enters the room and it lights and fan up the room automatically and also counts how many person are entering the room or going out of it. It is made to prevent unwanted electric power waste in schools, colleges, offices and houses. This whole process is operated automatically by its sensors. In today’s world, there is a continuous need for automatic appliances. The objective of this project is to make a controller based model to count number of persons visiting particular room and accordingly light and fan up the room automatically. Here we are using sensor and controller to count the no. of  persons in the room and display it on LCD. If there is at least 1 person in the room, the LED Or Fan will ON else it will remain OFF.
 
-#Screenshots
+# Screenshots
 
 ![Screenshot_2019-03-18-14-00-00](https://user-images.githubusercontent.com/68738766/90004036-99bfe180-dcb2-11ea-8aee-59b72c72b6b8.png)
+
+
 
 ![Screenshot_2019-04-23-20-30-37](https://user-images.githubusercontent.com/68738766/90004183-dbe92300-dcb2-11ea-96a0-986e5acd31c4.png)
